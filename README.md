@@ -24,7 +24,7 @@ Functions w0xx.m are utilised to calculate the ionization rates.
 
 dawson_m.m function calculates numerically the Dawson integral.
 
-### Ionization rate in strong two-color field
+## Ionization rate in strong two-color field
 
 
 <figure>
