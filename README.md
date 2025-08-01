@@ -30,9 +30,10 @@ dawson_m.m function calculates numerically the Dawson integral.
 <figure>
   <img src="Output_images/Fig_w0_2color_a.png" alt="Dependence of ionization rate on intensity at different fraction values." width="400">
 <img src="Output_images/Fig_w0_2color_b.png" alt="Different wave shapes of the driving field." width="250">
-  <figcaption style="text-align: center;">Figure 1: (a) Dependence of ionization rate on intensity at different fraction \text{$g_2/g_1$} values. FH wavelength \text{$\lambda=800$} nm.
+  <figcaption style="text-align: center;">Figure 1: (a) Dependence of ionization rate on intensity at different fraction '''math g_2/g_1 ''' values. FH wavelength '''math \lambda=800''' nm.
 (b) Different wave shapes of the driving field (blue: \text{$g_2=g_1$}; orange: \text{$g_2=g_1/4$}).</figcaption>
 </figure>  
+
 
 
 
