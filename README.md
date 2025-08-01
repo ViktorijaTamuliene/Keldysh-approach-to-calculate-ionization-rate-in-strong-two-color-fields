@@ -28,7 +28,7 @@ dawson_m.m function calculates numerically the Dawson integral.
 
 
 <figure>
-  <img src="Output_images/Fig_w0_2color_a.png" alt="Dependence of ionisation rate on intensity at different fraction $g_2/g_1$ values. FH wavelength $\lambda=800$ nm." width="200">
+  <img src="Output_images/Fig_w0_2color_a.png" alt="Dependence of ionisation rate on intensity at different fraction $g_2/g_1$ values. FH wavelength $\lambda=800$ nm." width="400">
   <figcaption style="text-align: center;">Figure 1: Dependence of ionisation rate on intensity at different fraction $g_2/g_1$ values. FH wavelength $\lambda=800$ nm.</figcaption>
 </figure>  
 
