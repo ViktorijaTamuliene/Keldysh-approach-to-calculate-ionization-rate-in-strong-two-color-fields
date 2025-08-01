@@ -18,7 +18,7 @@ These functions are used to calculate the ionization both in one-color limit and
 
 Run the Calculation_x.m programs to fill dat/ and datw/ folders with data.
 
-Run Paint_x.m programs to draw the graphs. Data from dat/ and data/ folders will be utilized. The graphs will be stored in pngs/ folder. Graphs for saddle points are also drawn.
+Run Paint_x.m programs to draw the graphs. Data from dat/ and data/ folders will be utilized. The graphs will be stored in pngs/ folder. Graphs for saddle points as well as driving field's waveshapes are also drawn.
 
 Functions w0xx.m are utilised to calculate the ionization rates.
 
