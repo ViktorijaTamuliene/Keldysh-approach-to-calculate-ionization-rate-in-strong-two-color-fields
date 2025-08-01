@@ -16,10 +16,21 @@ These functions are used to calculate the ionization both in one-color limit and
 
 ## Repository Structure
 
-Run the Calculation_x.m programs to fill dat/ and datw/ directories with data.
+Run the Calculation_x.m programs to fill dat/ and datw/ folders with data.
 
-Run Paint_x.m programs to draw the graphs. The graphs will be stored in pngs directory.
-  
+Run Paint_x.m programs to draw the graphs. Data from dat/ and data/ folders will be utilized. The graphs will be stored in pngs/ folder. Graphs for saddle points are also drawn.
+
+Functions w0xx.m are utilised to calculate the ionization rates.
+
+dawson_m.m function calculates numerically the Dawson integral.
+
+### Ionization rate in strong two-color field
+
+
+<figure>
+  <img src="Output_images/Fig_w0_2color_a.png" alt="Dependence of ionisation rate on intensity at different fraction $g_2/g_1$ values. FH wavelength $\lambda=800$ nm." width="200">
+  <figcaption style="text-align: center;">Figure 1: Dependence of ionisation rate on intensity at different fraction $g_2/g_1$ values. FH wavelength $\lambda=800$ nm.</figcaption>
+</figure>  
 
 
 ## Citation
