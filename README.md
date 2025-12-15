@@ -39,5 +39,5 @@ If you use this code, please cite:
 
 Title: Keldysh approach to calculate ionization rate in strong two-color fields 
 Authors: V. Tamulienė and I. Babushkin  
-Journal: -   
-DOI/Link: -
+Journal: Physical Review A   
+DOI/Link: https://doi.org/10.1103/rmdz-fdls
