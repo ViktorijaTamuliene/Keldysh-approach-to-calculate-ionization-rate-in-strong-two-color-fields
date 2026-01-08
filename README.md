@@ -40,7 +40,7 @@ If you use this code, please cite:
 Title: Keldysh approach to calculating the ionizaiton rate in strong two-color fields
 
 Authors: V. Tamulienė and I. Babushkin  
-Journal: Physical Review A   
+Journal: Physical Review A 
 Volume: 113
 Number: 013512
 Year: 2026
