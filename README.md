@@ -37,8 +37,11 @@ Fig. 1: (a) Dependence of ionization rate on intensity at different fraction $g_
 ## Citation
 If you use this code, please cite:
 
-Title: Keldysh approach to calculate ionization rate in strong two-color fields
+Title: Keldysh approach to calculating the ionizaiton rate in strong two-color fields
 
 Authors: V. Tamulienė and I. Babushkin  
 Journal: Physical Review A   
+Volume: 113
+Number: 013512
+Year: 2026
 DOI/Link: https://doi.org/10.1103/rmdz-fdls
